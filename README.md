@@ -41,16 +41,6 @@ Enterprises—especially service providers and product teams—now require a tru
 
 ---
 
-## 🔥 Screenshots
-
-- 🔐 Authentication & Authorization
-  ![Login](Image/login.png)
-
-- 👤 Account Management
-
-- 📄 Exam & Exam Paper Management
-  ![Setting](Image/Settings.png)
-
 ## 🙏 Acknowledgements
 
 Special thanks to **Nguyễn Văn Chiến**, our project supervisor, for his invaluable guidance and support.
